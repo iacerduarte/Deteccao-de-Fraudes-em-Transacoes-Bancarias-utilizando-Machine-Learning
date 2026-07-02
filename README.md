@@ -110,3 +110,9 @@ Os resultados mostram que técnicas de Boosting podem oferecer desempenho superi
 ### Autor
 
 Iacer Duarte
+
+## Agradecimentos
+
+Este projeto foi desenvolvido como parte de estudo em Machine Learning aplicado à detecção de fraudes, com orientação acadêmica.
+
+Agradecimento especial ao Professor(a) Dr(a). Isadora Ferrão pela orientação durante o desenvolvimento do projeto.
